@@ -1,0 +1,6 @@
+.idea/
+venv/
+.replit
+*.pyc
+*.stl
+*.gcode
